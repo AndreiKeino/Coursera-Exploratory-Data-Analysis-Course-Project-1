@@ -1,8 +1,5 @@
 # Coursera Exploratory Data Analysis Course Project 1
 
-# this script plot1.R creates the Global Activity Power histogram
-
-
 # set working directory
 setwd("D:\\Coursera\\Data_Science_Specialization\\04 -  Exploratory Data Analysis\\Week_1\\Course Project 1")
 
